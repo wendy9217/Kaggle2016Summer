@@ -8,3 +8,6 @@ dt.product.names <- fread("~/Dropbox/Kaggle/Data/producto_tabla.csv")
 dt.train <- fread("~/Dropbox/Kaggle/Data/train.csv")
 dt.test <- fread("~/Dropbox/Kaggle/Data/test.csv")
 dt.town.state <- fread("~/Dropbox/Kaggle/Data/town_state.csv")
+
+
+### hahahah
