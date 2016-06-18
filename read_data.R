@@ -12,3 +12,7 @@ dt.town.state <- fread("~/Dropbox/Kaggle/Data/town_state.csv")
 
 ### hahahah
 plot(1:10,1:10,pch=1:10,col=1:10)
+
+x = 1:10
+y = 1:10 + rnorm(10)
+lm(y~x)
